@@ -2,12 +2,12 @@
 void main ()
 {
 	int x,y ; 
-printf (" enter your id ");
+printf (" enter your id : ");
 scanf (" %d",&x);
 switch (x)
 {
 case 1234 :
- printf ("enter password");
+ printf ("enter password : ");
  scanf (" %d",&y);
  break ;
  default : 
